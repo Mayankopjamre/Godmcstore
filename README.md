@@ -1,2 +1,0 @@
-# Godmcstore
-For buying resources 
